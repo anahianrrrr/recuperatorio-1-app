@@ -1,7 +1,6 @@
 # 🎮 API de Juegos y Reseñas
-
 Esta es una API RESTful desarrollada con **Node.js**, **Express** y **MongoDB** para gestionar una colección de videojuegos y las opiniones de los usuarios.
-El proyecto fue creado como parte del recuperatorio de la materia **Aplicaciones Híbridas**
+
 ---
 ## 🚀 Instalación y Configuración
 
